@@ -1,20 +1,20 @@
 Practica servidor web
-1. Titulo
+1. Titulo:
 Servidores web con Nginx usando Docker
 
-2. Tiempo de duración
+2. Tiempo de duración:
 El tiempo usado para hacer la práctica fue de 15 minutos
 
 3. Fundamentos:
 Los fundamentos báscios son tener instalado linux, saber los comandos básicos de este sistema para entener el terminal, tener instalado docker que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización, crear los sitemas y documentarlos.
 
-4. Conocimientos previos.
+4. Conocimientos previos:
 Para realizar esta practica el estudiante necesita tener claro los siguientes temas
 -Manejo de comando básicos de linux
 -Conocimiento basico de Docker
 -Manejo del Navegador
 
-5. Objetivos a alcanzar
+5. Objetivos a alcanzar:
 Implementar contenedores con nginx en navegador
 Manipular archivos de configuración para que muestren información con la terminal
 
@@ -22,7 +22,7 @@ Manipular archivos de configuración para que muestren información con la termi
 -Computador con sistema operativo linux
 -Docker
 
-7. Material de apoyo.
+7. Material de apoyo:
 Documentacion de docker.
 Documentación linux
 
@@ -41,7 +41,7 @@ Figura 1-2.
 9. Resultados esperados:
 Los resulados esperados son que los servidores web se crearan y funcionaran correctamente
 
-10. Bibliografía
+10. Bibliografía:
 Fernández Ginés, X. (2018). Seguridad en Docker.
 Palma Pérez, N. (2020). Solución informática para la selección del servidor web durante la migración a código abierto. Revista Cubana de Ciencias Informáticas, 14(2), 49-69.
 Docker, I. (2017). Docker documentation. Electronic resource]. Docker Documentation:[website]. URL: https://docs. docker. com/(accessed: 02.05. 2022).
