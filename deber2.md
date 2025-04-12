@@ -17,26 +17,6 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
 5. Objetivos a alcanzar
 Implementar contenedores con nginx en navegador
 Manipular archivos de configuración para que muestren información con la terminal
-/*<html>
-<head>
-    <title>Institución Educativa</title>
-</head>
-<body>
-    <h1>Bienvenidos al sitio institucional</h1>
-    <p>Este servidor pertenece al Instituto Tecnológico Sudamericano.</p>
-</body>
-</html>
-*/
-/*<html>
-<head>
-    <title>Institución Educativa</title>
-</head>
-<body>
-    <h1>Bienvenidos a mi sitio</h1>
-    <p>Este servidor pertenece al Estudiante Ariel Samaniego.</p>
-</body>
-</html>
-*/
 
 6. Equipo necesario:
 -Computador con sistema operativo linux
@@ -46,7 +26,7 @@ Manipular archivos de configuración para que muestren información con la termi
 Documentacion de docker.
 Documentación linux
 
-8. Procedimiento
+8. Procedimiento:
 Paso 1: Crea el primer contenedor Nginx llamado nginx1 exponiendo el puerto 8089: docker run -d --name nginx1 -p 8089:80 nginx
 Paso 2: Crea el segundo contenedor Nginx llamado nginx2 exponiendo el puerto 8090: docker run -d --name nginx2 -p 8090:80 nginx
 Paso 3:Copia el archivo index.html desde el contenedor nginx1 al sistema anfitrión: docker cp nginx1:/usr/share/nginx/html/index.html ./index1.html
