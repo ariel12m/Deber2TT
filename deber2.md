@@ -54,9 +54,9 @@ Paso 4: Edita el archivo index1.html con un editor como nano o vi, incluyendo in
 Paso 5: Copia el archivo editado nuevamente al contenedor nginx1: docker cp index1.html nginx1:/usr/share/nginx/html/index.html
 
 Figura 1-1. 
-![1](1.png)
+![1](./Assets/1.png)
 Figura 1-2.
-![1](2.png)
+![1](./Assets/2.png)
  
 9. Resultados esperados:
 Los resulados esperados son que los servidores web se crearan y funcionaran correctamente
